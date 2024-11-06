@@ -1,0 +1,1 @@
+const STRANGE_STRING ="\u0130"
